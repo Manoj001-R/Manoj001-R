@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Manoj001-R
-- 👀 I’m interested in Python & MySql
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on Cyber Security
+- 👋 Hi, I’m R Manoj Hariharan
+- 👀 I’m interested in Python & Database Management(SQL & NoSQL)
+- 🌱 I’m currently learning Ethical Hacking with AI collaboration
+- 💞️ I’m looking to collaborate on Cyber Security Development 
 
 
 <!---
